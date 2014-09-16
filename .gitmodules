@@ -1,0 +1,48 @@
+[submodule "wangximing/client"]
+	path = wangximing/client
+	url = git@github.com:sighWang/letusgo-client.git
+[submodule "wangximing/server"]
+	path = wangximing/server
+	url = git@github.com:sighWang/letusgo-server.git
+[submodule "wangyufei/server"]
+	path = wangyufei/server
+	url = git@github.com:sorashiro/letusgo_server.git
+[submodule "wangyufei/client"]
+	path = wangyufei/client
+	url = git@github.com:sorashiro/letusgo_client.git
+[submodule "zhangwei/client"]
+	path = zhangwei/client
+	url = git@github.com:lzhangwei/letusgo-client.git
+[submodule "zhangwei/server"]
+	path = zhangwei/server
+	url = git@github.com:lzhangwei/letusgo-server.git
+[submodule "sukai/client"]
+	path = sukai/client
+	url = git@github.com:SnakeWorker/Letusgo-client.git
+[submodule "sukai/server"]
+	path = sukai/server
+	url = git@github.com:SnakeWorker/Letusgo-server.git
+[submodule "xueqian/client"]
+	path = xueqian/client
+	url = git@github.com:XueQian/letusgo-client.git
+[submodule "xueqian/server"]
+	path = xueqian/server
+	url = git@github.com:XueQian/letusgo-server.git
+[submodule "wanghuan/client"]
+	path = wanghuan/client
+	url = git@github.com:adabeauty/letusgo_client.git
+[submodule "wanghuan/server"]
+	path = wanghuan/server
+	url = git@github.com:adabeauty/letusgo_server.git
+[submodule "cuifugang/server"]
+	path = cuifugang/server
+	url = git@github.com:fgcui1204/letusgo-server.git
+[submodule "cuifugang/client"]
+	path = cuifugang/client
+	url = git@github.com:fgcui1204/letusgo-client.git
+[submodule "zhangzhihui/client"]
+	path = zhangzhihui/client
+	url = git@github.com:xiaoyanzhuzzh/letusgo_cilent.git
+[submodule "zhangzhihui/server"]
+	path = zhangzhihui/server
+	url = git@github.com:xiaoyanzhuzzh/letusgo_server.git
