@@ -46,3 +46,9 @@
 [submodule "zhangzhihui/server"]
 	path = zhangzhihui/server
 	url = git@github.com:xiaoyanzhuzzh/letusgo_server.git
+[submodule "liyanzi/server"]
+	path = liyanzi/server
+	url = git@github.com:mumuyang1/letusgo-server.git
+[submodule "liyanzi/client"]
+	path = liyanzi/client
+	url = git@github.com:mumuyang1/letusgo-client.git
